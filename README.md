@@ -1,5 +1,5 @@
 # COBI-Det Dataset
-The official dataset links for the paper "From Rubbings to Reality: A High-Fidelity RGB Benchmark and Lightweight Transformer for Oracle Bone Inscriptions Detection". The code will be made public shortly after the acceptance of the paper.
+The official dataset links for the paper "From Rubbings to Reality: A High-Fidelity RGB Benchmark and Lightweight Transformer for Oracle Bone Inscriptions Detection". The dataset will be made public shortly after the acceptance of the paper.
 
 ## Dataset Introduction
 The COBI-Det dataset is a high-resolution RGB dataset designed to simulate real-world archaeological scenarios for Oracle Bone Inscriptions (OBIs) detection. Existing public datasets for OBIs detection predominantly consist of grayscale rubbing images. While these benchmarks have facilitated early research, they represent an idealized data form that lacks the complex environmental noise, material aging, and chromatic interference found in real-world archaeological excavations. Consequently, models trained solely on grayscale rubbings often struggle to generalize to authentic fragments rich in textural and color information.
